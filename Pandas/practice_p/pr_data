@@ -1,0 +1,9 @@
+,Customer,City,Product,Sales,Profit,Quantity
+0,Mohan,Delhi,Laptop,55000,8000.0,2
+1,Rohan,Mumbai,Phone,20000,3000.0,5
+2,Sohan,Delhi,Tablet,15000,2000.0,3
+3,Aman,Bangalore,Laptop,60000,9000.0,1
+4,Neha,Mumbai,Phone,22000,3200.0,4
+5,Priya,Delhi,Tablet,14000,1800.0,2
+6,Karan,Bangalore,Laptop,58000,8500.0,2
+7,Rahul,Mumbai,Phone,21000,,6
